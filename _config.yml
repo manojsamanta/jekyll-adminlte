@@ -1,0 +1,23 @@
+# Welcome to Jekyll!
+#
+
+# Site settings
+title: AdminLTE
+description: |
+        Jekyll version
+owner: manojsamanta
+first_published: 2023
+email: manoj.samanta@gmail.com
+
+baseurl: "/test" # the subpath of your site, e.g. /blog
+#url: "http://move-seamlessly.com:2198"
+
+social: 
+  github: https://github.com/manojsamanta
+  email: mailto:manoj.samanta@gmail.com
+
+# Build settings
+markdown: kramdown
+#sass:
+#  style: compressed
+
